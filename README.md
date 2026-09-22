@@ -8,4 +8,5 @@ run the "temp" binary with ```./temp```
 
 ```go build .```
 
-[github.com/caseymrm/go-smc](github.com/caseymrm/go-smc)
+[github.com/caseymrm/go-smc](https://github.com/caseymrm/go-smc)
+
